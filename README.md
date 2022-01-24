@@ -31,4 +31,11 @@ By the end of this case study , you would be able to answer below questions.
 - **Clustering (Annual Income & Spending Score)**
 - **Clustering (Age & Spending Score)**
 
-## [Click Here  for Visualize and Analyze]( ) :thumbsup: :thumbsup: :thumbsup: 
+## Conclusion
+- It seems very clear that there is no big difference between male and female customers, so a gender-based audience should not be chosen.
+- In addition, it seems that the audience between the ages of 20-40 spend more in this store compared to people in other age groups, making special campaigns for the audience between the ages of 20-40 can increase the profit of the supermarket.
+- This is not the optimal strategy, but it could be an alternative. Since the average spending scores of middle-income (40k-70k dollars) customers in this store are also at a medium level, it is difficult to increase their spending to higher levels because their income is not conducive to this, but by making campaigns to increase the number of these customers, the store can increase its profit by acquiring more middle-income customers.
+- I think the best strategy would be to target high-income customers. The reason is that some of the high-income customers spend high, while a significant portion of these customers spend low, there may be some things that low-spenders are not satisfied. Improvements to be made in service and quality can increase the spending of high-income customers who come to the store, but do not.
+- The distribution of the data was generally good, but the standard deviations were a little high and there was no significant positive correlation between the data, only a negative correlation between age and spending score that could be important, showing us that older people who choose this supermarket spend less money than people in other age groups.
+
+## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project5.html) :thumbsup: :thumbsup: :thumbsup: 
