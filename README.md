@@ -1,5 +1,5 @@
 # Mall-Customer-Segmentation-Unsupervised-ML :department_store:
-[*here you can download the cheatsheet*](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)  
+[*here you can download the cheatsheet*](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)  
 
 ## Introduction 
 This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
