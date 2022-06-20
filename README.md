@@ -1,5 +1,4 @@
 ![This is an image](https://github.com/arienugroho050396/Mall-Customer-Segmentation-Unsupervised-ML/blob/main/Header.png)
-# Mall-Customer-Segmentation-Unsupervised-ML 
 [*here you can download the cheatsheet*](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)  :department_store:
 
 ## Introduction 
