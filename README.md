@@ -10,12 +10,14 @@ This data set is created only for the learning purpose of the customer segmentat
 ## Content
 You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
 
-### Feature :
-- **Customer ID** — Unique ID assigned to the customer.
-- **Gender** — Gender of the customer (Male/Female).
-- **Age** — Age of the customer.
-- **Annual Income (k$)** — Annual Income of the customee.
-- **Spending Score** — Score assigned by the mall based on customer behavior and spending nature.
+### Data Fields :
+| Variable Name | Description |
+| --- | --- |
+| `Customer ID` | Unique ID assigned to the customer |
+| `Gender` | Gender of the customer (Male/Female) | 
+| `Age` | Age of the customer |
+| `Annual Income (k$)` | Annual Income of the customee |
+| `Spending Score` | Score assigned by the mall based on customer behavior and spending nature |
 
 ## What We Got From This Program
 By the end of this case study , you would be able to answer below questions.
